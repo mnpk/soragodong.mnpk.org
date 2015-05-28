@@ -1,0 +1,30 @@
+{
+  "name": "soragodong",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "~1.12.4",
+    "cookie-parser": "~1.3.5",
+    "debug": "~2.2.0",
+    "express": "~4.12.4",
+    "jade": "~1.9.2",
+    "morgan": "~1.5.3",
+    "serve-favicon": "~2.2.1"
+  },
+  "description": "마법의 소라고동",
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:mnpk/soragodong.mnpk.org.git"
+  },
+  "author": "mnpk <mnncat@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mnpk/soragodong.mnpk.org/issues"
+  },
+  "homepage": "https://github.com/mnpk/soragodong.mnpk.org"
+}
